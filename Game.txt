@@ -1,6 +1,0 @@
-Creation of spheres
-game mechanics
-points calc
-timer
-stats: graph
-       top 5 scores
