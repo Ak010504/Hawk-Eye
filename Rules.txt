@@ -1,0 +1,20 @@
+Welcome to the game!!
+
+These are the RULES of the game:
+	1 . Each player will have a time limit of 2 minutes. The player must click on as many balls as possible within that time range.
+	
+	2 . Thre are 2 types of balls - Yellow and Red. The point system for each ball is given below:
+
+						1 . Yellow - Left Click - +200
+							   - Right Click - (-50)
+
+						2 . Red - Left Click - (-50)
+							- Right Click - +200
+
+	3 . Once the timer ends , The player will be able to see his/her stats on the stats page. 
+
+	4 . To Pause the game, The player must Alt + f4. The game will be haulted and the player must restart the game.
+
+	5 . Close the RULES window to continue the game
+
+Thank you for playing the game!!
